@@ -28,8 +28,8 @@ These commands assume Node.js is installed.
 Start the backend first:
 
 ```bash
-git clone https://github.com/abhishekirl/task-manager.git
-cd task-manager/server
+git clone https://github.com/abhishekirl/Task-Manager.git
+cd Task-Manager/server
 npm install
 npm start
 ```
@@ -39,7 +39,7 @@ The backend should run on http://localhost:5001.
 Then open a second terminal and start the frontend:
 
 ```bash
-cd task-manager/client
+cd Task-Manager/client
 npm install
 npm run dev
 ```
@@ -187,7 +187,7 @@ Error response examples:
 ## Project Structure
 
 ```text
-task-manager/
+Task-Manager/
 |-- client/
 |   |-- src/
 |   |   |-- components/       form, list, and single task components
