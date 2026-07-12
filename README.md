@@ -2,7 +2,7 @@
 
 ## Project Title & Brief Description
 
-I chose the full stack task manager exercise. This app is a simple personal task manager where someone can add tasks, edit them, delete them, mark them complete or incomplete, and filter the task list. I built it with React on the frontend and Node.js/Express on the backend. For storage, I used a JSON file instead of a database because I wanted to keep this version focused on the main CRUD features.
+A full-stack task manager for creating, updating, completing, filtering, and deleting personal tasks.
 
 ## Live Demo Links
 
